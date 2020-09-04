@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning to work with WebRTC and Flutter.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with people looking to start with Linux.
+- ⚡ Fun fact: I'm really good at Dark Souls.
+
 <!--
 **inatagan/inatagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
