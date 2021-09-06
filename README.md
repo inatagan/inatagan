@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to work with WebRTC and Flutter.
+- 🔭 I’m currently expanding my knowledge of WebRTC and Flutter.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with people looking to start with Linux.
-- ⚡ Fun fact: I'm really good at Dark Souls.
+- 💬 I’m want to help people starting with Linux.
+- ⚡ Fun fact: Switch-Based Keyboards Were Invented In the 1970s.
 
 <!--
 **inatagan/inatagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
