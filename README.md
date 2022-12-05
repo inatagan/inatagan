@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-- 🔭 I’m currently expanding my knowledge of WebRTC and Flutter.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 I’m want to help people starting with Linux.
-- ⚡ Fun fact: Switch-Based Keyboards Were Invented In the 1970s.
+- 🔭 I’m currently stuck_in_the_shell.                          (＞﹏＜)
+- 👯 I’m looking to collaborate on open source projects.        ミ ᕕ(ᐛ) ᕗ
+- 💬 I’m want to help people starting with Linux.                ´･ᴗ･`
+- ⚡ Fun fact: Type  `:qa`  and press `<Enter>` to exit Vim.    ( ˇ෴ˇ )
 
 <!--
 **inatagan/inatagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
