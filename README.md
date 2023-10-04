@@ -2,10 +2,10 @@ https://user-images.githubusercontent.com/22266171/208791372-95ca0611-8be6-46c7-
 
 ### Hello there 👋
 
-- 🔭 I’m currently stuck_in_the_shell.                          (＞﹏＜)
-- 👯 I’m looking to collaborate on open source projects.        ミ ᕕ(ᐛ) ᕗ
-- 💬 I’m want to help people starting with Linux.                ´･ᴗ･`
-- ⚡ Fun fact: Type  `:qa`  and press `<Enter>` to exit Vim.    ( ˇ෴ˇ )
+- 🔭 I’m currently stuck_in_the_shell.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 I’m want to help people starting with Linux.
+- ⚡ Fun fact: Type  `:qa`  and press `<Enter>` to exit Vim.
 
 <!--
 **inatagan/inatagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
